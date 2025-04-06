@@ -10,12 +10,12 @@ The MailMaster is a web-based application that utilizes a SpringBoot backend and
 **Backend**
 ------------
 
-The backend of the application is built using SpringBoot, a popular Java-based framework for building web applications. The SpringBoot backend provides a RESTful API that handles requests from the frontend and interacts with the Tomcat server to retrieve email data.
+The backend of the application is built using SpringBoot, a popular Java-based framework for building web applications. The SpringBoot backend provides a RESTful API that handles requests from the frontend and interacts with the Tomcat server to retrieve email response.
 
 **Frontend**
 ------------
 
-The frontend of the application is built using Vite and React, a powerful JavaScript library for building user interfaces. The Vite + React frontend consumes the API provided by the SpringBoot backend and displays the email data in a user-friendly interface.
+The frontend of the application is built using Vite and React, a powerful JavaScript library for building user interfaces. The Vite + React frontend consumes the API provided by the SpringBoot backend and displays the email response in a user-friendly interface.
 
 **Features**
 ------------
@@ -27,9 +27,8 @@ The frontend of the application is built using Vite and React, a powerful JavaSc
 **Technical Requirements**
 -------------------------
 
-* SpringBoot 2.4.3
-* Vite 2.9.13
-* React 17.0.2
-* Tomcat 9.0.50
-* Java 11
-* Node.js 14.17.0
+* SpringBoot 
+* Vite 
+* React 
+* Java 
+* Node.js 
